@@ -14,3 +14,12 @@
   padding-top: 0px; 
   color: black;
 }
+
+a {
+  color: black;
+}
+
+#fourth-navbar .nav-link,
+#fifth-navbar .nav-link {
+  color: black;
+}
